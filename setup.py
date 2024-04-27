@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/local/bin/python2
 # coding=utf-8
 """****************************************************************************
 Copyright (c) 2014 cocos2d-x.org
